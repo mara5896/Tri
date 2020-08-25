@@ -25,7 +25,7 @@ const menu = [
   },
   {
     id: 4,
-    title: "Bacon and cheese sandwich",
+    title: "Waffle sandwich",
     category: "breakfast",
     price: 7.99,
     img: "img/san.png",
